@@ -1,1 +1,9 @@
 initial commit
+
+- Create branch with the name related with issue type
+- Develop in branch (commit, push)
+- Create PR (Pull Request)
+- If we've sure, squash and mere PR
+- Switch branch to `main`
+- Then `git fetch` and `git pull origin main`
+- Back to step 1
